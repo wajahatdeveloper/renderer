@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "driver", "renderer.vcxproj", "{25585A11-7944-41F3-941B-7AB30A77E4DD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "driver", "driver\driver.vcxproj", "{25585A11-7944-41F3-941B-7AB30A77E4DD}"
 	ProjectSection(ProjectDependencies) = postProject
 		{9924171F-CF63-4433-A2CA-17344609D5E4} = {9924171F-CF63-4433-A2CA-17344609D5E4}
 	EndProjectSection
